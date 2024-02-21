@@ -15,7 +15,7 @@
 
 ### Zhejiang University (ZJU), Hangzhou, China
 - **Bachelor of Science in Electric and Computer Engineering**
-- **GPA:** 3.97/4.00
+- **GPA:** 3.87/4.00
 - **Expected June 2025**
 - **Core Courses:** Discrete Mathematics, Linear Algebra and Its Computational Applications, Calculus, Introduction to Differential Equations, Introduction to Computation: Engineering and Science (Python, MATLAB), Computer Systems and Programming (LC-3 Assembly Language, C Language), Data Structures (C++)
 - **Awards:** ZJU Second-Class Scholarship (Oct 2023), Third-Class Scholarship (Oct 2022), ZJU-UIUC Institute First-Class Academic Excellence Award (Oct 2023), Third-Class Academic Excellence Award (Oct 2022)
