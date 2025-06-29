@@ -5,11 +5,7 @@
 
 **About me**
 
-- 💼 Applied Research Intern at [Tencent](https://www.tencent.com/)
-
-- ❤️ I love playing video games and am fascinated by using ML/DL to enhance the procedural generation of game content
-
-- 💬 Ask me about anything [here](https://github.com/Beryex/Beryex/issues)
+Hi there! I'm Boyao Wang, an incoming Master of Science in Machine Learning student at Carnegie Mellon University, currently interning at Tencent. I earned my Bachelor of Science in Computer Engineering from the University of Illinois Urbana-Champaign (Highest Honors) and a Bachelor of Engineering in Electronic and Computer Engineering from Zhejiang University. During my undergraduate studies, I had the privilege of being advised by Professor Volodymyr Kindratenko and conducting research in Professor Tong Zhang's lab. I also broadened my academic horizons as an undergraduate summer visitor at Stanford University, where I made many friends and built valuable connections. I am deeply grateful to everyone who has offered advice and guidance for my future path!
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beryex&show_icons=true&theme=transparent) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beryex&layout=donut&theme=transparent" /></a> |
 | ------------- | ------------- |
