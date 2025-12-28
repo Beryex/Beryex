@@ -13,7 +13,7 @@ During my undergraduate studies, I was advised by Professor Volodymyr Kindratenk
 
 Explore my projects and connect with me: **https://beryex.github.io**
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beryex&show_icons=true&theme=transparent) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beryex&layout=donut&theme=transparent" /></a> |
+| ![Anurag's GitHub stats](https://github-readme-stats-henna-eight-33.vercel.app/api?username=Beryex&show_icons=true&theme=transparent) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-henna-eight-33.vercel.app/api/top-langs/?username=Beryex&layout=donut&theme=transparent" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
