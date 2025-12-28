@@ -19,8 +19,8 @@ Explore my projects and connect with me: **https://beryex.github.io**
 #### Top Repositories
 
 <a href="https://github.com/Beryex/ML4Investment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beryex&repo=ML4Investment&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-henna-eight-33.vercel.app/api/pin/?username=Beryex&repo=ML4Investment&theme=transparent" />
 </a>
 <a href="https://github.com/Beryex/RLPruner-CNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beryex&repo=RLPruner-CNN&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-henna-eight-33.vercel.app/api/pin/?username=Beryex&repo=RLPruner-CNN&theme=transparent" />
 </a>
