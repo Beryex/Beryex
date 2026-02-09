@@ -5,7 +5,7 @@
 
 **About me**
 
-I am currently pursuing my Master's degree in **Machine Learning** at **Carnegie Mellon University**, and I'm seeking Machine Learning Engineer and Applied Research Internship opportunities for Summer 2026.
+I am currently pursuing my Master's degree in **Machine Learning** at **Carnegie Mellon University**.
 
 I earned my Bachelor of Science in **Computer Engineering** from the **University of Illinois Urbana-Champaign** (**Highest Honors**) and a Bachelor of Engineering in **Electronic and Computer Engineering** from **Zhejiang University** (**Outstanding Graduate**). 
 
