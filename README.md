@@ -5,22 +5,31 @@
 
 **About me**
 
-I am currently pursuing my Master's degree in **Machine Learning** at **Carnegie Mellon University**.
+I'm a Master's student in **Machine Learning** at **Carnegie Mellon University** (graduating Dec 2026), working on making large models cheaper to train and serve.
 
-I earned my Bachelor of Science in **Computer Engineering** from the **University of Illinois Urbana-Champaign** (**Highest Honors**) and a Bachelor of Engineering in **Electronic and Computer Engineering** from **Zhejiang University** (**Outstanding Graduate**). 
+This past summer I was a Research Intern at **Microsoft**, working on vector quantization for frontier-scale Mixture-of-Experts LLMs — compressing DeepSeek-R1-671B to ~1.6 bits per weight while keeping the accuracy loss around 2%. Before that, I was an Applied Research Intern at **Tencent**, where I built an LLM-agent pipeline for 3D scene generation and fine-tuned small models to replace expensive API calls.
 
-During my undergraduate studies, I was advised by Professor Volodymyr Kindratenko and conducted research in Professor Tong Zhang's lab, where my work focused on compressing LLMs and their post-training. I worked at Tencent as an Applied Research Intern, where I architected a full-stack generative AI pipeline for 3D scene generation (powered by an LLM Agent) and implemented inference acceleration techniques to reduce overall latency.
+I did my undergrad as a dual-degree student: B.S. in **Computer Engineering** at **UIUC** (**Highest Honors**) and B.Eng. in **Electronic and Computer Engineering** at **Zhejiang University** (**Outstanding Graduate**), where I started doing research on LLM compression with Prof. Volodymyr Kindratenko and in Prof. Tong Zhang's lab.
 
-Explore my projects and connect with me: **https://beryex.github.io**
+**Recent papers**
 
-| ![Anurag's GitHub stats](https://github-readme-stats-henna-eight-33.vercel.app/api?username=Beryex&show_icons=true&theme=transparent) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-henna-eight-33.vercel.app/api/top-langs/?username=Beryex&layout=donut&theme=transparent" /></a> |
+- **SpecDrop** — parameter-free category-conditioned routing for modular specialization. First author. [arXiv:2608.04084](https://arxiv.org/abs/2608.04084) · [code](https://github.com/Beryex/SpecDrop)
+- **Adapt-Pruner** — adaptive structural pruning for efficient small-LLM training. Co-first author. [arXiv:2502.03460](https://arxiv.org/abs/2502.03460)
+- **RL-Pruner** — structured CNN pruning with reinforcement learning. First author. [arXiv:2411.06463](https://arxiv.org/abs/2411.06463) · [code](https://github.com/Beryex/RLPruner-CNN)
+
+Explore more or get in touch: **https://beryex.github.io**
+
+| ![Boyao's GitHub stats](https://github-readme-stats-henna-eight-33.vercel.app/api?username=Beryex&show_icons=true&theme=transparent) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-henna-eight-33.vercel.app/api/top-langs/?username=Beryex&layout=donut&theme=transparent" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
-<a href="https://github.com/Beryex/ML4Investment">
-  <img align="center" src="https://github-readme-stats-henna-eight-33.vercel.app/api/pin/?username=Beryex&repo=ML4Investment&theme=transparent" />
+<a href="https://github.com/Beryex/SpecDrop">
+  <img align="center" src="https://github-readme-stats-henna-eight-33.vercel.app/api/pin/?username=Beryex&repo=SpecDrop&theme=transparent" />
 </a>
 <a href="https://github.com/Beryex/RLPruner-CNN">
   <img align="center" src="https://github-readme-stats-henna-eight-33.vercel.app/api/pin/?username=Beryex&repo=RLPruner-CNN&theme=transparent" />
+</a>
+<a href="https://github.com/Beryex/ML4Investment">
+  <img align="center" src="https://github-readme-stats-henna-eight-33.vercel.app/api/pin/?username=Beryex&repo=ML4Investment&theme=transparent" />
 </a>
