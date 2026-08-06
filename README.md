@@ -17,8 +17,6 @@ I did my undergrad as a dual-degree student: B.S. in **Computer Engineering** at
 - **Adapt-Pruner** — adaptive structural pruning for efficient small-LLM training. Co-first author. [arXiv:2502.03460](https://arxiv.org/abs/2502.03460)
 - **RL-Pruner** — structured CNN pruning with reinforcement learning. First author. [arXiv:2411.06463](https://arxiv.org/abs/2411.06463) · [code](https://github.com/Beryex/RLPruner-CNN)
 
-Explore more or get in touch: **https://beryex.github.io**
-
 | ![Boyao's GitHub stats](https://github-readme-stats-henna-eight-33.vercel.app/api?username=Beryex&show_icons=true&theme=transparent) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-henna-eight-33.vercel.app/api/top-langs/?username=Beryex&layout=donut&theme=transparent" /></a> |
 | ------------- | ------------- |
 
