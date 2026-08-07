@@ -7,7 +7,7 @@
 
 I'm a Master's student in **Machine Learning** at **Carnegie Mellon University** (graduating Dec 2026), working on making large models cheaper to train and serve.
 
-This past summer I was a Research Intern at **Microsoft**, working on vector quantization for frontier-scale Mixture-of-Experts LLMs — compressing DeepSeek-R1-671B to ~1.6 bits per weight while keeping the accuracy loss around 2%. Before that, I was an Applied Research Intern at **Tencent**, where I built an LLM-agent pipeline for 3D scene generation and fine-tuned small models to replace expensive API calls.
+This past summer I was a Research Intern at **Microsoft**, working on vector quantization for frontier-scale Mixture-of-Experts LLMs — compressing them to under 2 bits per weight while keeping the accuracy loss around 2%. Before that, I was an Applied Research Intern at **Tencent**, where I built an LLM-agent pipeline for 3D scene generation and fine-tuned small models to replace expensive API calls.
 
 I did my undergrad as a dual-degree student: B.S. in **Computer Engineering** at **UIUC** (**Highest Honors**) and B.Eng. in **Electronic and Computer Engineering** at **Zhejiang University** (**Outstanding Graduate**), where I started doing research on LLM compression with Prof. Volodymyr Kindratenko and in Prof. Tong Zhang's lab.
 
