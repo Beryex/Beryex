@@ -13,7 +13,7 @@ I did my undergrad as a dual-degree student: B.S. in **Computer Engineering** at
 
 **Recent papers**
 
-- **SpecDrop** — parameter-free category-conditioned routing for modular specialization. First author. [arXiv:2608.04084](https://arxiv.org/abs/2608.04084) · [code](https://github.com/Beryex/SpecDrop)
+- **SpecDrop** — parameter-free category-conditioned routing for modular specialization. First author, **NeurIPS 2026**. [arXiv:2608.04084](https://arxiv.org/abs/2608.04084) · [code](https://github.com/Beryex/SpecDrop)
 - **Adapt-Pruner** — adaptive structural pruning for efficient small-LLM training. Co-first author. [arXiv:2502.03460](https://arxiv.org/abs/2502.03460)
 - **RL-Pruner** — structured CNN pruning with reinforcement learning. First author. [arXiv:2411.06463](https://arxiv.org/abs/2411.06463) · [code](https://github.com/Beryex/RLPruner-CNN)
 
